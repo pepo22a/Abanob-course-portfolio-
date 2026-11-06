@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Exercise 01</title>
+    </head>
+    <body>
+        <h1>Exercise 01</h1>
+        <p>This is exercise 01, where I created and deployed my course portfolio.</p>
+        <a href="../index.html">Back to Homepage</a>
+    </body>
+</html>
