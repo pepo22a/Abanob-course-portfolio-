@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>My Top 5 Liverpool Players</title>
+    </head>
+    <body>
+        <header>
+            <h1>My Top 5 Liverpool Players</h1>
+            <p>Liverpool is my favorite soccer club since I was a kid. I decieded to share my five favorite Liverpool players based on talent, performance, and what they mean to me as a fan</p>
+        </header>
+        <main>
+            <ol>
+                <li>
+                    <h2>Mohamed Salah</h2>
+                    <p>Salah is my favorite Liverpool player. As someonefrom Egypt, Salah is my national heroe growing up. I feel proud watching him succeed. I admire his speed, finishing, and dedication. I loved watching him breaking so many records over 9 years with Liverpool.</p>
+                </li>
+                <li>
+                    <h2>Steven Gerrard</h2>
+                    <p>Gerrard represents the passion I love about Liverpool. His leadership and ability to score important goals make him one of my favorite players.</p>
+                </li>
+                <li>
+                    <h2>Virgil Van Dijk</h2>
+                    <p>I enjoy watching Van Dijk because he makes defending look calm and controlled. His positioning and leadership stand out to me. I rate him as one of the best defender ever.</p>
+                </li>
+                <li>
+                    <h2>Sadio Mane</h2>
+                    <p>Mane was exciting to watch because of his energy, speed, and determination. I especially enjoyed watching him attack alongside Salah.</p>
+                </li>
+                <li>
+                    <h2>Roberto Firmino</h2>
+                    <p>Firmino is one of my favorites because of his creativity, skills, and teamwork. I loved how he helped other players score while making the game entertaining.</p>
+                </li>
+            </ol>
+        </main>
+        <footer>
+            <p>Abanob Hanna_Assignment 01</p>
+        </footer>
+    </body>
+</html>
